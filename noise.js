@@ -8,7 +8,7 @@ var particles = [];
 var flowField;
 
 function setup() {
-  createCanvas(600, 600);
+  createCanvas(500, 500);
 
   cols = floor(width / scl);
   rows = floor(height / scl);
